@@ -1,0 +1,20 @@
+> expo init pokedex
+-------- NAVIGATION --------
+https://reactnavigation.org/docs/getting-started/
+> npm install @react-navigation/native
+> expo install react-native-screens react-native-safe-area-context
+
+import { NavigationContainer } from '@react-navigation/native';
+
+-------- STACK --------
+> npm install @react-navigation/native-stack
+
+-------- TAB NAVIGATION --------
+> npm install @react-navigation/bottom-tabs
+
+-------- ICONOS --------
+> react-native-vector-icons
+
+-------- HOOKS --------
+useEffect cuando se carga la pagina por primera vez
+useEffect [estado] cuando se modifica el estado
